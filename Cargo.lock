@@ -1719,7 +1719,7 @@ dependencies = [
 ]
 
 [[package]]
-name = "xiaomi_buds_pro_3_battery_percentage"
+name = "xiaomi_buds_3_pro_battery_tray"
 version = "1.0.0"
 dependencies = [
  "bluetooth-battery",

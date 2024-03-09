@@ -13,7 +13,7 @@ fn main() {
         .get(0)
         .unwrap();
 
-      let _icon = create_tray(device);
+      let _tray = create_tray(device);
 
       devices = get_bluetooth_battery();
     }
