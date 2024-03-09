@@ -1,0 +1,12 @@
+[package]
+name = "xiaomi_buds_pro_3_battery_percentage"
+version = "1.0.0"
+edition = "2021"
+
+[dependencies]
+bluetooth-battery = "0.1.0"
+tray-icon = "0.12.0"
+xmltree = "0.10.3"
+svg = "0.16.0"
+image = "0.24.7"
+resvg = "0.40.0"
