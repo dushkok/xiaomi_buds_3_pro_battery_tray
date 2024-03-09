@@ -6,7 +6,6 @@
             <defs>
                 <linearGradient y2="0%" y1="100%" x1="0%" id="linear" x2="0%">
                     <stop offset="0" stop-color="#33d15a"/>
-                    <stop offset="1" stop-color="#2dbc50"/>
                 </linearGradient>
             </defs>
             <circle cx="250" r="200" fill="transparent" cy="250"/>
